@@ -17,6 +17,11 @@ public:
     explicit MainWindow(QWidget *parent = nullptr);
     ~MainWindow() override;
 
+private slots:
+    void on_pushButtonCtoF_clicked();
+
+    void on_pushButtonFtoC_clicked();
+
 private:
     Ui::MainWindow *ui;
 };
