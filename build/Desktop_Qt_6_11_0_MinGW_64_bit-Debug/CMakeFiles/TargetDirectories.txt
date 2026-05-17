@@ -1,9 +1,0 @@
-C:/QtRepo/tempConverterQt/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/CMakeFiles/tempConverterQt.dir
-C:/QtRepo/tempConverterQt/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
-C:/QtRepo/tempConverterQt/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
-C:/QtRepo/tempConverterQt/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
-C:/QtRepo/tempConverterQt/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/CMakeFiles/install.dir
-C:/QtRepo/tempConverterQt/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
-C:/QtRepo/tempConverterQt/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
-C:/QtRepo/tempConverterQt/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/CMakeFiles/tempConverterQt_autogen_timestamp_deps.dir
-C:/QtRepo/tempConverterQt/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/CMakeFiles/tempConverterQt_autogen.dir
